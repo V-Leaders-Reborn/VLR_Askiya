@@ -1367,7 +1367,7 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="askia_clothing_diff.dds.003"/>
+                        <m_GroupName text="askia_clothing_diff.dds.002"/>
                         <m_MeshName text="ASKIA_ARMS_poly"/>
                         <m_StateName text="Default"/>
                     </Element>
@@ -1381,7 +1381,7 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="askia_clothing_diff.dds.004"/>
+                        <m_GroupName text="askia_beard_diff.dds.001"/>
                         <m_MeshName text="ASKIA_BEARD_A_poly"/>
                         <m_StateName text="Default"/>
                     </Element>
