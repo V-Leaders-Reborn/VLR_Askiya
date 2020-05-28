@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	304439700	AskiaDefeated			\Speech\Leaders\Askia\AskiaDefeated	
+	834526230	AskiaDeclareWar			\Speech\Leaders\Askia\AskiaDeclareWar	
+	954504274	AskiaStop			\Speech\Leaders\Askia\AskiaStop	
+	1908836473	AskiaPeaceful			\Speech\Leaders\Askia\AskiaPeaceful	
+	2213855465	AskiaAttacked			\Speech\Leaders\Askia\AskiaAttacked	
+	2777660482	AskiaHateHello			\Speech\Leaders\Askia\AskiaHateHello	
+	3719909000	AskiaIntro			\Speech\Leaders\Askia\AskiaIntro	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	150541113	AskiaDeclaresWar	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\AskiaDeclaresWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\AskiaDeclaresWar		417088
+	186783202	AskiaHateHello	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\AskiaHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\AskiaHateHello		168256
+	249155082	AskiaAttacked	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\AskiaAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\AskiaAttacked		318016
+	353248297	Askia_Peaceful	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\Askia_Peaceful_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\Askia_Peaceful		313408
+	373963869	AskiaIntro	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\AskiaIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\AskiaIntro		1205056
+	890185543	AskiaDefeated	C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\SFX\AskiaDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Askia\AskiaDefeated		1020736
+

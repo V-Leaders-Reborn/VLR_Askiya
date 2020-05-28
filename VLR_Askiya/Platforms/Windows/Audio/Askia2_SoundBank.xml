@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\User\Documents\WwiseProjects\Darius_Audio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\User\Documents\WwiseProjects\Darius_Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\User\Documents\WwiseProjects\Darius_Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\User\Documents\WwiseProjects\Darius_Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="2736337410" Language="SFX">
+			<ShortName>Askia2_SoundBank</ShortName>
+			<Path>Askia2_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2213855465" Name="AskiaAttacked"/>
+				<Event Id="834526230" Name="AskiaDeclareWar"/>
+				<Event Id="304439700" Name="AskiaDefeated"/>
+				<Event Id="2777660482" Name="AskiaHateHello"/>
+				<Event Id="3719909000" Name="AskiaIntro"/>
+				<Event Id="1908836473" Name="AskiaPeaceful"/>
+				<Event Id="954504274" Name="AskiaStop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="150541113" Language="SFX">
+					<ShortName>AskiaDeclaresWar.wav</ShortName>
+					<Path>SFX\AskiaDeclaresWar_9E69E797.wem</Path>
+				</File>
+				<File Id="186783202" Language="SFX">
+					<ShortName>AskiaHateHello.wav</ShortName>
+					<Path>SFX\AskiaHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="249155082" Language="SFX">
+					<ShortName>AskiaAttacked.wav</ShortName>
+					<Path>SFX\AskiaAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="353248297" Language="SFX">
+					<ShortName>Askia_Peaceful.wav</ShortName>
+					<Path>SFX\Askia_Peaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="373963869" Language="SFX">
+					<ShortName>AskiaIntro.wav</ShortName>
+					<Path>SFX\AskiaIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="890185543" Language="SFX">
+					<ShortName>AskiaDefeated.wav</ShortName>
+					<Path>SFX\AskiaDefeated_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3532277404" Language="SFX">
+			<ShortName>Askia_SoundBank</ShortName>
+			<Path>Askia_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2213855465" Name="AskiaAttacked"/>
+				<Event Id="834526230" Name="AskiaDeclareWar"/>
+				<Event Id="304439700" Name="AskiaDefeated"/>
+				<Event Id="2777660482" Name="AskiaHateHello"/>
+				<Event Id="3719909000" Name="AskiaIntro"/>
+				<Event Id="1908836473" Name="AskiaPeaceful"/>
+				<Event Id="954504274" Name="AskiaStop"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="150541113" Language="SFX">
+					<ShortName>AskiaDeclaresWar.wav</ShortName>
+					<Path>SFX\AskiaDeclaresWar_9E69E797.wem</Path>
+				</File>
+				<File Id="186783202" Language="SFX">
+					<ShortName>AskiaHateHello.wav</ShortName>
+					<Path>SFX\AskiaHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="249155082" Language="SFX">
+					<ShortName>AskiaAttacked.wav</ShortName>
+					<Path>SFX\AskiaAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="353248297" Language="SFX">
+					<ShortName>Askia_Peaceful.wav</ShortName>
+					<Path>SFX\Askia_Peaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="373963869" Language="SFX">
+					<ShortName>AskiaIntro.wav</ShortName>
+					<Path>SFX\AskiaIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="890185543" Language="SFX">
+					<ShortName>AskiaDefeated.wav</ShortName>
+					<Path>SFX\AskiaDefeated_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
