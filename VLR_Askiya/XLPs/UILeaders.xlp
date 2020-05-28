@@ -22,6 +22,10 @@
 			<m_ObjectName text="LEADER_CVS_ASKIYA_BACKGROUND"/>
 		</Element>
 		<Element>
+			<m_EntryID text="LEADER_CVS_ASKIYA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CVS_ASKIYA_NEUTRAL"/>
+		</Element>
+		<Element>
 			<m_EntryID text="LEADER_CVS_ASKIYA_PORTRAIT_256"/>
 			<m_ObjectName text="LEADER_CVS_ASKIYA_PORTRAIT_256"/>
 		</Element>
