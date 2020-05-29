@@ -1465,7 +1465,7 @@
                                 </Element>
                             </m_Values>
                         </m_Values>
-                        <m_GroupName text="Leader_cornea.022"/>
+                        <m_GroupName text="Leader_cornea"/>
                         <m_MeshName text="Askia_EyesReflection_poly"/>
                         <m_StateName text="Default"/>
                     </Element>

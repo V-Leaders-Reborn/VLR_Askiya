@@ -89,19 +89,6 @@
 <m_nVertexCount>278</m_nVertexCount>
 </Element>
 <Element>
-<m_Name text="ASKIA_EYE_SHADOWS_poly"/>
-<m_Groups>
-<Element>
-<m_Name text="askia_clothing_diff.dds"/>
-<m_nFirstPrim>0</m_nFirstPrim>
-<m_nPrims>80</m_nPrims>
-</Element>
-</m_Groups>
-<m_nBoundBoneCount>2</m_nBoundBoneCount>
-<m_nPrimitiveCount>80</m_nPrimitiveCount>
-<m_nVertexCount>66</m_nVertexCount>
-</Element>
-<Element>
 <m_Name text="ASKIA_EYES_poly"/>
 <m_Groups>
 <Element>
@@ -118,7 +105,7 @@
 <m_Name text="Askia_EyesReflection_poly"/>
 <m_Groups>
 <Element>
-<m_Name text="Leader_cornea.022"/>
+<m_Name text="Leader_cornea"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>440</m_nPrims>
 </Element>
