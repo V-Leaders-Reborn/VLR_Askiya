@@ -442,6 +442,7 @@
 		<Element>
 			<libraryName text="ColorKey"/>
 			<relativePackagePaths>
+				<Element text="ColorKeys"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

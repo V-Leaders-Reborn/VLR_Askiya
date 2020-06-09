@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>V Leaders Reborn - Askiya</Name>
+    <Name>[COLOR_FLOAT_GOLD]V Leaders Reborn[ENDCOLOR] - Askiya</Name>
     <Guid>9a2ae4b8-1546-4a86-99d5-654de9cc5f13</Guid>
     <ProjectGuid>0ae6f1f4-9da5-4f3b-bfc9-3c72c2123116</ProjectGuid>
     <ModVersion>1</ModVersion>
